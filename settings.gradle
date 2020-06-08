@@ -1,0 +1,3 @@
+include ':Toast_lib'
+include ':app'
+rootProject.name = "Log_Toast_Lib"
